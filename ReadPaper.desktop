@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=ReadPaper
+Comment=A tool for reading papers
+Exec=env __NV_DISABLE_EXPLICIT_SYNC=1 /home/huangzitong/Software/pake/readpaper/readpaper-x86_64.AppImage
+Icon=/home/huangzitong/Software/pake/readpaper/readpaper-icon-filled-256.png
+Terminal=false
+Type=Application
+Categories=Utility;Application;
