@@ -9,5 +9,5 @@ pake https://readpaper.com/home/ --name readpaper --hide-title-bar --icon readpa
 ```
 
 ## Hints:
-You may find an error like `failed to run linuxdeploy`[ref](https://github.com/tw93/Pake/issues/826). Please add NO_STRIP=true to linuxdeploy command mannually
+You may find an error like `failed to run linuxdeploy`[ref](https://github.com/tw93/Pake/issues/826). Please add `NO_STRIP=true` to linuxdeploy command mannually
 
